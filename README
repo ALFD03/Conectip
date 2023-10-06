@@ -1,1 +1,10 @@
-El siguiente espacio es exclucivo para la creacion del diseño del sistema de informacion de monitoreo personalizado de CONECTIP
+La funcion de este repositorio es la creacion de un sistema de informacion automatizado de monitoreo para CONECTIP C.A
+
+Es necesario para la realizacion de este proyecto las siguientes caracteristicas:
+1. Python
+2. FLet
+3. PostegreSQL
+
+Autor del proyecto:
+Br. Angel Flores
+Analista de Operaciones
