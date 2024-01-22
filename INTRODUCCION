@@ -5,8 +5,50 @@
 2. FLet
 3. PostegreSQL
 
-  REQUERIMIENTOS DEL SISTEMA.
-- 
+  REQUERIMIENTOS APLICATIVOS.
+- Porcentaje de Confiabilidad de los Nodos.
+- MTBF (Tiempo medio entre Fallas).
+- MTTR (Tiempo medio para Reparar).
+- Tiempo Medio de Atencion por Zona.
+- Tiempo Medio de Reparacion por Nodo.
+
+    Informacion Basica de CONECTIP:
+  - Numero de Contratos.
+  - Mbps Adquiridos
+  - Mbps Distribuidos ( AP, Nodo, Sede, Global)
+  - Tasa de Overbooking ( AP, Nodo, Sede, Global ).
+  - Factor de Rebanado ( AP, Nodo, Sede, Global ).
+  
+    Informacion de Comercial:
+  - Cantidad de Clientes ( AP, Nodo, Sede, Global)
+  - Habilitados
+  - Deshabilitados
+  - Demos
+  - Cruces
+  - Recurrente
+
+    Informacion de Operaciones:
+
+  - Monitoreo de AP
+    - CPU
+    - Memoria
+    - Cantidad de Clientes
+    - Mbps distribuidos
+    - Througput TX / RX
+    - Airtime
+    - Ruido Base
+
+  - Monitoreo de PTP
+    - CPU
+    - Memoria
+    - Mbps Distribuidos
+    - Througput TX / RX
+    - Ruido Base
+
+  
+
+  REQUERIMIENTOS DE SOFTWARE.
+-
 
   REQUERIMIENTOS FUNCIONALES.
 -
