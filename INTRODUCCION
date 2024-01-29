@@ -10,7 +10,7 @@
 - MTBF (Tiempo medio entre Fallas).
 - MTTR (Tiempo medio para Reparar).
 - Tiempo Medio de Atencion por Zona.
-- Tiempo Medio de Reparacion por Nodo.
+- Tiempo Medio de Reparacion por Nodo / Zona.
 
     Informacion Basica de CONECTIP:
   - Numero de Contratos.
@@ -41,13 +41,34 @@
   - Monitoreo de PTP
     - CPU
     - Memoria
+    - Cantida de Cliente.
     - Mbps Distribuidos
     - Througput TX / RX
+    - Airtime
     - Ruido Base
 
-  
+  - Monitoreo de Router's y Switch's
+    - CPU
+    - Memoria
+    - Cantidad de Clientes
+    - Mbps Distribuidos
+    - Througput TX / RX 
 
+  IDEAS PARA CREACION DE PROGRAMA.
+
+  1.- Programa de Escritorio
+    Ventanas.
+    a.- Login
+    b.- Dashboard
+      b.1.- Graficas Con informacion Basica de Conectip
+      b.2.- Grafica con informacion de Comercial
+      b.3.- Graficas con informacion de Operaciones
+      b.4.- Menu lateral con hipervinculo a otras opciones
+      b.5.- Barra superior con boton de cerrar sesion y opciones
+    c.- Pantalla de Operaciones
+    
   REQUERIMIENTOS DE SOFTWARE.
+  
 -
 
   REQUERIMIENTOS FUNCIONALES.
